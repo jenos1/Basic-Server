@@ -14,4 +14,4 @@ This is a basic server created with Node.js. The code creates a listener for eac
     * The server listens for the request, parses the URL and pulls out root of URL.
 
 ## To Stop the Server
-    * Go to the Terminal and enter Ctrl + C.
+* Go to the Terminal and enter Ctrl + C.
